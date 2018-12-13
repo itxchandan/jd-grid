@@ -1,4 +1,6 @@
-Use only jdgrid.css file.
+Best of Extensions/Components.
+
+Use only jdgrid.min.css file.
 
 Path: css/
 
