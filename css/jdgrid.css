@@ -1,3 +1,14 @@
+.jd-container,
+.jd-container::before,
+.jd-container::after,
+.jd-row,
+.jd-row::before,
+.jd-row::after,
+.[class*="jd-col-"],
+.[class*="jd-col-"]::before,
+.[class*="jd-col-"]::after {
+	box-sizing: border-box;
+} 
 .jd-container {
    width: 100%;
    padding-right: 15px;
