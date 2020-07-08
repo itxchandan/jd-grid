@@ -1,9 +1,11 @@
-Best of Extensions/Components.
+## ⌘ Cmd
 
-Use only jdgrid.min.css file.
+* npm init -y
+* npm i bootstrap@4.5.0
+* sass --watch scss:css --style=expanded --no-cache
 
-Path: css/
+<!-- Commented Files -->
+* Never comment "function, variables, mixins & grid" files.
 
-Sass compiler CMD
-
-sass --watch scss/bootstrap.scss:css/jdgrid.css --style compressed
+### add "jd-" in mentioned files
+* node_modules\bootstrap\scss\mixins\_grid-framework.scss
