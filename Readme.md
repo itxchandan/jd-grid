@@ -40,7 +40,7 @@
 
 |Bootstrap|JD Grid| Notes|
 |-|-|-|
-| |``@media (min-width: 576px)``| Small devices (landscape phones, 576px and up)|
-||``@media (min-width: 768px)``|Medium devices (tablets, 768px and up)|
-||``@media (min-width: 992px)``|Large devices (desktops, 992px and up)|
-||``@media (min-width: 1200px)``|Extra large devices (large desktops, 1200px and up)|
+|``@include media-breakpoint-up(sm)``|``@media (min-width: 576px)``| Small devices (landscape phones, 576px and up)|
+|``@include media-breakpoint-up(md)``|``@media (min-width: 768px)``|Medium devices (tablets, 768px and up)|
+|``@include media-breakpoint-up(lg)``|``@media (min-width: 992px)``|Large devices (desktops, 992px and up)|
+|``@include media-breakpoint-up(xl)``|``@media (min-width: 1200px)``|Extra large devices (large desktops, 1200px and up)|
